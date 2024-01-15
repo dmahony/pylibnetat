@@ -1,4 +1,4 @@
-Configuration app for Taixin TX-AH-R WiFi HaLow Modules / devices
+AT command Configuration app for Taixin TX-AH-R WiFi HaLow Modules / devices
 
 Usage:
 
